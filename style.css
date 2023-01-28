@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+}
+
+#main{
+    font-family: 'Poppins';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -90%);
+    height: 320px;
+    width: 422px;
+}
+
+input {
+    width:100%;
+}
+
+.custom-btn {
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
